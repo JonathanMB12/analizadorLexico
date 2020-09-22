@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1600751757 source:c:\users\hp\documents\seminario_tl\2020a\analizadorlexico\lexico.cpp
+	"lexico.h"
+
+1600740237 c:\users\hp\documents\seminario_tl\2020a\analizadorlexico\lexico.h
+	<iostream>
+	<string>
+
+1600750698 source:c:\users\hp\documents\seminario_tl\2020a\analizadorlexico\main.cpp
+	<cstdlib>
+	<iostream>
+	<cstring>
+	"lexico.h"
+	"pila.h"
+
+1600555998 c:\users\hp\documents\seminario_tl\2020a\analizadorlexico\pila.h
+	<list>
+	<iostream>
+	<string>
+
+1600555874 source:c:\users\hp\documents\seminario_tl\2020a\analizadorlexico\pila.cpp
+	"pila.h"
+	"lexico.h"
+	<sstream>
+
